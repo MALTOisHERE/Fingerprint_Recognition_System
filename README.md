@@ -1,2 +1,2 @@
 # Fingerprint_Recognition_System
-FIngerprint recognition system for fingerprint minutiae matching.
+A fingerprint recognition system for fingerprint minutiae matching ensures accurate identification and authentication.
